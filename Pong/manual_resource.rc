@@ -1,0 +1,2 @@
+#include "manual_resource.h"
+IDI_ICON ICON "pong.ico"

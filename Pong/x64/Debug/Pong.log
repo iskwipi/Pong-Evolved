@@ -1,0 +1,22 @@
+﻿  win32_platform.cpp
+C:\Users\Admin\source\repos\Pong\Pong\renderer.cpp(9,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\Pong\Pong\renderer.cpp(42,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\renderer.cpp(43,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\renderer.cpp(44,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\renderer.cpp(45,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(14,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(43,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(47,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(174,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(194,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(250,71): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(250,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(250,36): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(250,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(256,71): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(256,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(256,36): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(256,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(308,106): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\Pong\Pong\game.cpp(309,106): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Users\Admin\source\repos\Pong\x64\Debug\Pong.exe
